@@ -1,4 +1,4 @@
-apiVersion: extensions/v1beta1
+apiVersion: apps/v1
 kind: Deployment
 metadata:
   name: federation-controller-manager
@@ -6,6 +6,9 @@ metadata:
   labels:
     app: federated-cluster
 spec:
+  selector:
+    matchLabels:
+      app: federated-cluster
   template:
     metadata:
       name: federation-controller-manager
