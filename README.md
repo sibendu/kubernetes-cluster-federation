@@ -1,7 +1,7 @@
 # Kubernetes Cluster Federation (The Hard Way)
 
-
-Adjustment to commands are in  [link to Google!](http://google.com)
+##
+Some adjustment to commands are in  [federated-k8s-commands!](federated-k8s-commands-sibendu.md)
 
 This tutorial will walk you through setting up a Kubernetes cluster federation composed of four Kubernetes clusters across multiple GCP regions.
 
