@@ -1,5 +1,8 @@
 # Kubernetes Cluster Federation (The Hard Way)
 
+
+Adjustment to commands are in  [link to Google!](http://google.com)
+
 This tutorial will walk you through setting up a Kubernetes cluster federation composed of four Kubernetes clusters across multiple GCP regions.
 
 This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster federation. If that's you then check out [Setting up Cluster Federation with Kubefed](https://kubernetes.io/docs/tutorials/federation/set-up-cluster-federation-kubefed/).
