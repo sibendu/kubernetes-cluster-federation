@@ -8,7 +8,7 @@ This tutorial will walk you through setting up a Kubernetes cluster federation c
 This guide is not for people looking for a fully automated command to bring up a Kubernetes cluster federation. If that's you then check out [Setting up Cluster Federation with Kubefed](https://kubernetes.io/docs/tutorials/federation/set-up-cluster-federation-kubefed/).
 
 This tutorial is optimized for learning, which means taking the long route to help people understand each task required to bootstrap a Kubernetes cluster federation. This tutorial requires access to [Google Compute Engine](https://cloud.google.com/compute).
-
+  
 ## Prerequisites
 
 ### Clone This Repository
